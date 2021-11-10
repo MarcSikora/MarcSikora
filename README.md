@@ -21,7 +21,7 @@ Classic Pong game with more futuristic style
 
 ### Tetris (pure JS)
 Old-school game
-* Live example: 
+* Live example: [Tetris - demo](http://memor37.hekko24.pl/tetris/)
 * Repository: https://github.com/MarcSikora/tetris
 
 ### Particle Generator (React)
