@@ -16,7 +16,7 @@
 ## Projects
 ### NeoPong (pure JS)
 Classic Pong game with more futuristic style
-* Live example: 
+* Live example: [NeoPong - demo](https://marcsikora.github.io/projects/neopong/)
 * Repository: https://github.com/MarcSikora/neopong
 
 ### Tetris (pure JS)
@@ -26,5 +26,5 @@ Old-school game
 
 ### Particle Generator (React)
 2D graphics editor - just to show off my programming skills
-* Live example: 
+* Live example: [Particle Generator - demo](https://marcsikora.github.io/projects/particle-generator/)
 * Repository: https://github.com/MarcSikora/particle-generator
