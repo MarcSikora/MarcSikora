@@ -28,3 +28,7 @@ Old-school game
 2D graphics editor - just to show off my programming skills
 * Live example: [Particle Generator - demo](https://marcsikora.github.io/projects/particle-generator/)
 * Repository: https://github.com/MarcSikora/particle-generator
+
+## Portfolio
+
+Link: [marcsikora.github.io](https://marcsikora.github.io/)
