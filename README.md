@@ -24,12 +24,12 @@ Old-school game
 * Live example: [Tetris - demo](http://memor37.hekko24.pl/tetris/)
 * Repository: https://github.com/MarcSikora/tetris
 
-### Particle Generator (React)
+### Particle Generator (React)<br>*(class components)*
 2D graphics editor - just to show off my programming skills
 * Live example: [Particle Generator - demo](https://marcsikora.github.io/projects/particle-generator/)
 * Repository: https://github.com/MarcSikora/particle-generator
 
-### Garage Configurator (React)
+### Garage Configurator (React)<br>*(functional components + hooks)*
 Application allows user to design a garage.
 
 Real-time visualisation in connection with long list of settings makes a process fun and simple.
