@@ -7,6 +7,10 @@
 * Quick learner
 * Hard worker
 
+## Portfolio
+
+Link: [marcsikora.github.io](https://marcsikora.github.io/)
+
 ## Skills
 ![html](icons/html.png)
 ![css](icons/css.png) 
@@ -32,6 +36,3 @@ Real-time visualisation in connection with long list of settings makes a process
 * Live example: [Garage Configurator - demo](https://marcsikora.github.io/projects/garage-configurator/)
 * Repository: https://github.com/MarcSikora/garage-configurator
 
-## Portfolio
-
-Link: [marcsikora.github.io](https://marcsikora.github.io/)
