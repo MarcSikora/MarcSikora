@@ -14,10 +14,6 @@
 ![react](icons/react.png) 
 
 ## Projects
-### NeoPong (pure JS)
-Classic Pong game with more futuristic style
-* Live example: [NeoPong - demo](https://marcsikora.github.io/projects/neopong/)
-* Repository: https://github.com/MarcSikora/neopong
 
 ### Tetris (pure JS)
 Old-school game
@@ -28,6 +24,13 @@ Old-school game
 2D graphics editor - just to show off my programming skills
 * Live example: [Particle Generator - demo](https://marcsikora.github.io/projects/particle-generator/)
 * Repository: https://github.com/MarcSikora/particle-generator
+
+### Garage Configurator (React)
+Application allows user to design a garage.
+
+Real-time visualisation in connection with long list of settings makes a process fun and simple.
+* Live example: [Garage Configurator - demo](https://marcsikora.github.io/projects/garage-configurator/)
+* Repository: https://github.com/MarcSikora/garage-configurator
 
 ## Portfolio
 
