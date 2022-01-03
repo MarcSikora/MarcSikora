@@ -16,6 +16,7 @@ Link: [marcsikora.github.io](https://marcsikora.github.io/)
 ![css](icons/css.png) 
 ![js](icons/js.png) 
 ![react](icons/react.png) 
+![angular](icons/angular.png) 
 
 ## Projects
 
