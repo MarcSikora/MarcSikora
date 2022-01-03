@@ -21,7 +21,7 @@ Link: [marcsikora.github.io](https://marcsikora.github.io/)
 
 ### Tetris (pure JS)
 Old-school game
-* Live example: [Tetris - demo](http://memor37.hekko24.pl/tetris/)
+* Live example: [Tetris - demo](http://marcsikora.github.io/projects/tetris/)
 * Repository: https://github.com/MarcSikora/tetris
 
 ### Particle Generator (React)<br>*(class components)*
